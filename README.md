@@ -3,7 +3,7 @@
 
 run:
 ```
-python -i People.mp4 -b True -o PeopleDetector.avi
+python main.py -i People.mp4 -b True -o PeopleDetector.avi
 
 ```
 
